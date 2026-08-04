@@ -1,0 +1,12 @@
+{
+  "name": "seo-rank-tracker",
+  "version": "1.0.0",
+  "scripts": {
+    "backend": "cd server && npm start",
+    "frontend": "cd client && npm run dev",
+    "start": "concurrently \"npm run backend\" \"npm run frontend\""
+  },
+  "devDependencies": {
+    "concurrently": "^10.0.4"
+  }
+}
