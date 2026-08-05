@@ -58,7 +58,7 @@ export const homeHowItWorksData = [
 export const homefooterLinks = [
     {
         title: "Product",
-        links: ["Features", "Pricing", "API", "Browser Extension"],
+        links: ["Features", "API", "Browser Extension"],
     },
     {
         title: "Resources",
